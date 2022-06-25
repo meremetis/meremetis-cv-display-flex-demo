@@ -387,10 +387,22 @@ footer ul li span{
     .left_side p{
       font-size: 1.8rem !important;
     }
+    .left_side p label{
+
+      font-size: 1.8rem !important;
+    }
   .title_name{
     font-size: 2rem !important;
   }
-
+  .aboutme p{
+    font-size: 1.4rem !important;
+}
+.myprojects{
+  margin-left: -10%;
+}
+.myprojects p {
+  font-size: 1.4rem !important;
+}
     .nav-row{
         display: flex;
         flex-direction: row;

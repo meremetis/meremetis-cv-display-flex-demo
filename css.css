@@ -383,13 +383,15 @@ footer ul li span{
     .left_side{
       width:100%;
 
+
     }
     .left_side p{
       font-size: 1.8rem !important;
     }
-    .left_side p label{
+    .left_side form p label{
+      font-size: 1.4rem !important;
 
-      font-size: 1.8rem !important;
+
     }
   .title_name{
     font-size: 2rem !important;
